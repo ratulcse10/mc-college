@@ -3,6 +3,6 @@
 
 return [
 
-			'siteName'  => 'SUST Admission'
+			'siteName'  => 'MC College'
 
 ];
