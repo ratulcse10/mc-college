@@ -36,10 +36,9 @@
                             <p class="adr clearfix col-md-12 col-sm-4">
                                 <i class="fa fa-map-marker pull-left"></i>
                                 <span class="adr-group pull-left">
-                                    <span class="street-address">College Green</span><br>
-                                    <span class="region">56 College Green Road</span><br>
-                                    <span class="postal-code">BS16 AP18</span><br>
-                                    <span class="country-name">UK</span>
+                                    <span class="street-address">MC College</span><br>
+                                    <span class="postal-code">Sylhet</span><br>
+                                    <span class="country-name">Bangladesh</span>
                                 </span>
                             </p>
                             <p class="tel col-md-12 col-sm-4"><i class="fa fa-phone"></i>0800 123 4567</p>
@@ -52,18 +51,18 @@
     </div><!--//footer-content-->
     <div class="bottom-bar">
         <div class="container">
-            <div class="row">
-                <small class="copyright col-md-6 col-sm-12 col-xs-12">Copyright @ 2014 College Green Online | Website template by <a href="#">3rd Wave Media</a></small>
-                <ul class="social pull-right col-md-6 col-sm-12 col-xs-12">
-                    <li><a href="#" ><i class="fa fa-twitter"></i></a></li>
-                    <li><a href="#" ><i class="fa fa-facebook"></i></a></li>
-                    <li><a href="#" ><i class="fa fa-youtube"></i></a></li>
-                    <li><a href="#" ><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="#" ><i class="fa fa-google-plus"></i></a></li>
-                    <li><a href="#" ><i class="fa fa-pinterest"></i></a></li>
-                    <li><a href="#" ><i class="fa fa-skype"></i></a></li>
-                    <li class="row-end"><a href="#" ><i class="fa fa-rss"></i></a></li>
-                </ul><!--//social-->
+            <div class="row" align="center">
+                <small class="copyright">Copyright 2015 | MC College,Sylhet | Developed By <a href="#">CRTC,Dept of CSE,SUST</a></small>
+                {{--<ul class="social pull-right col-md-6 col-sm-12 col-xs-12">--}}
+                    {{--<li><a href="#" ><i class="fa fa-twitter"></i></a></li>--}}
+                    {{--<li><a href="#" ><i class="fa fa-facebook"></i></a></li>--}}
+                    {{--<li><a href="#" ><i class="fa fa-youtube"></i></a></li>--}}
+                    {{--<li><a href="#" ><i class="fa fa-linkedin"></i></a></li>--}}
+                    {{--<li><a href="#" ><i class="fa fa-google-plus"></i></a></li>--}}
+                    {{--<li><a href="#" ><i class="fa fa-pinterest"></i></a></li>--}}
+                    {{--<li><a href="#" ><i class="fa fa-skype"></i></a></li>--}}
+                    {{--<li class="row-end"><a href="#" ><i class="fa fa-rss"></i></a></li>--}}
+                {{--</ul><!--//social-->--}}
             </div><!--//row-->
         </div><!--//container-->
     </div><!--//bottom-bar-->

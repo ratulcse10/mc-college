@@ -5,42 +5,42 @@
     <div id="promo-slider" class="slider flexslider">
         <ul class="slides">
             <li>
-                <img src="assets/images/slides/slide-1.jpg"  alt="" />
+                <img src="assets/images/slides/img1.jpg"  alt="" />
                 <p class="flex-caption">
-                    <span class="main" >Join College Green Online</span>
+                    <span class="main" >MC College</span>
                     <br />
-                    <span class="secondary clearfix" >Choose from over 100 online and offline courses</span>
+                    <span class="secondary clearfix" >ESTD: 1892</span>
                 </p>
             </li>
             <li>
-                <img src="assets/images/slides/slide-2.jpg"  alt="" />
+                <img src="assets/images/slides/img2.jpg"  alt="" />
                 <p class="flex-caption">
-                    <span class="main" >Come to our Open Days</span>
+                    <span class="main" >MC College</span>
                     <br />
-                    <span class="secondary clearfix" >Donec accumsan nunc sed ipsum dapibus consectetur</span>
+                    <span class="secondary clearfix" >ESTD: 1892</span>
                 </p>
             </li>
             <li>
-                <img src="assets/images/slides/slide-3.jpg"  alt="" />
+                <img src="assets/images/slides/img3.jpg"  alt="" />
                 <p class="flex-caption">
-                    <span class="main" >Discover online courses</span>
+                    <span class="main" >MC College</span>
                     <br />
-                    <span class="secondary clearfix" >Lorem ipsum dolor sit amet, consectetur adipiscing elit</span>
+                    <span class="secondary clearfix" >ESTD: 1892</span>
                 </p>
             </li>
             <li>
-                <img src="assets/images/slides/slide-4.jpg"  alt="" />
+                <img src="assets/images/slides/img4.jpg"  alt="" />
                 <p class="flex-caption">
-                    <span class="main" >Nam ultricies accumsan pellentesque</span>
+                    <span class="main" >MC College</span>
                     <br />
-                    <span class="secondary clearfix" >In justo orci, ornare vitae nulla sed, suscipit suscipit augue</span>
+                    <span class="secondary clearfix" >ESTD: 1892</span>
                 </p>
             </li>
         </ul><!--//slides-->
     </div><!--//flexslider-->
     <section class="promo box box-dark">
         <div class="col-md-9">
-            <h1 class="section-heading">Why College Green</h1>
+            <h1 class="section-heading">Why MC College</h1>
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum orci eget nulla mattis, quis viverra tellus porta. Donec vitae neque ut velit eleifend commodo. Maecenas turpis odio, placerat eu lorem ut, suscipit commodo augue.  </p>
         </div>
         <div class="col-md-3">
