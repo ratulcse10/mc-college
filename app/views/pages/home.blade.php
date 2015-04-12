@@ -41,14 +41,14 @@
     <section class="promo box box-dark">
         <div class="col-md-9">
             <h1 class="section-heading">Why MC College</h1>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum orci eget nulla mattis, quis viverra tellus porta. Donec vitae neque ut velit eleifend commodo. Maecenas turpis odio, placerat eu lorem ut, suscipit commodo augue.  </p>
+            {{--<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed bibendum orci eget nulla mattis, quis viverra tellus porta. Donec vitae neque ut velit eleifend commodo. Maecenas turpis odio, placerat eu lorem ut, suscipit commodo augue.  </p>--}}
         </div>
         <div class="col-md-3">
             <a class="btn btn-cta" href="#"><i class="fa fa-play-circle"></i>Apply Now</a>
         </div>
     </section><!--//promo-->
     <section class="news">
-        <h1 class="section-heading text-highlight"><span class="line">Latest News</span></h1>
+        <h1 class="section-heading text-highlight"><span class="line">Latest Notices</span></h1>
         <div class="carousel-controls">
             <a class="prev" href="#news-carousel" data-slide="prev"><i class="fa fa-caret-left"></i></a>
             <a class="next" href="#news-carousel" data-slide="next"><i class="fa fa-caret-right"></i></a>
@@ -58,42 +58,42 @@
                 <div class="carousel-inner">
                     <div class="item active">
                         <div class="col-md-4 news-item">
-                            <h2 class="title"><a href="news-single.html">Phasellus scelerisque metus</a></h2>
-                            <img class="thumb" src="assets/images/news/news-thumb-1.jpg"  alt="" />
-                            <p>Suspendisse purus felis, porttitor quis sollicitudin sit amet, elementum et tortor. Praesent lacinia magna in malesuada vestibulum. Pellentesque urna libero.</p>
-                            <a class="read-more" href="news-single.html">Read more<i class="fa fa-chevron-right"></i></a>
+                            <h2 class="title"><a href="news-single.html">Admission</a></h2>
+                            <img class="thumb" src="assets/images/notice.jpg"  alt="" />
+                            <p>Admission Information</p>
+                            <a class="read-more" href="#">Read more<i class="fa fa-chevron-right"></i></a>
                         </div><!--//news-item-->
                         <div class="col-md-4 news-item">
-                            <h2 class="title"><a href="news-single.html">Morbi at vestibulum turpis</a></h2>
-                            <p>Nam feugiat erat vel neque mollis, non vulputate erat aliquet. Maecenas ac leo porttitor, semper risus condimentum, cursus elit. Vivamus vitae libero tellus.</p>
-                            <a class="read-more" href="news-single.html">Read more<i class="fa fa-chevron-right"></i></a>
-                            <img class="thumb" src="assets/images/news/news-thumb-2.jpg"  alt="" />
+                            <h2 class="title"><a href="news-single.html">Admission</a></h2>
+                            <p>Admission Information</p>
+                            <a class="read-more" href="#">Read more<i class="fa fa-chevron-right"></i></a>
+                            <img class="thumb" src="assets/images/notice.jpg"  alt="" />
                         </div><!--//news-item-->
                         <div class="col-md-4 news-item">
-                            <h2 class="title"><a href="news-single.html">Aliquam id iaculis urna</a></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam bibendum mauris eget sapien consectetur pellentesque. Proin elementum tristique euismod. </p>
-                            <a class="read-more" href="news-single.html">Read more<i class="fa fa-chevron-right"></i></a>
-                            <img class="thumb" src="assets/images/news/news-thumb-3.jpg"  alt="" />
+                            <h2 class="title"><a href="news-single.html">Admission</a></h2>
+                            <p>Admission Information</p>
+                            <a class="read-more" href="#">Read more<i class="fa fa-chevron-right"></i></a>
+                            <img class="thumb" src="assets/images/notice.jpg"  alt="" />
                         </div><!--//news-item-->
                     </div><!--//item-->
                     <div class="item">
                         <div class="col-md-4 news-item">
-                            <h2 class="title"><a href="news-single.html">Phasellus scelerisque metus</a></h2>
-                            <img class="thumb" src="assets/images/news/news-thumb-4.jpg"  alt="" />
-                            <p>Suspendisse purus felis, porttitor quis sollicitudin sit amet, elementum et tortor. Praesent lacinia magna in malesuada vestibulum. Pellentesque urna libero.</p>
-                            <a class="read-more" href="news-single.html">Read more<i class="fa fa-chevron-right"></i></a>
+                            <h2 class="title"><a href="news-single.html">Admission</a></h2>
+                            <img class="thumb" src="assets/images/notice.jpg"  alt="" />
+                            <p>Admission Information</p>
+                            <a class="read-more" href="#">Read more<i class="fa fa-chevron-right"></i></a>
                         </div><!--//news-item-->
                         <div class="col-md-4 news-item">
-                            <h2 class="title"><a href="news-single.html">Morbi at vestibulum turpis</a></h2>
-                            <p>Nam feugiat erat vel neque mollis, non vulputate erat aliquet. Maecenas ac leo porttitor, semper risus condimentum, cursus elit. Vivamus vitae libero tellus.</p>
-                            <a class="read-more" href="news-single.html">Read more<i class="fa fa-chevron-right"></i></a>
-                            <img class="thumb" src="assets/images/news/news-thumb-5.jpg"  alt="" />
+                            <h2 class="title"><a href="news-single.html">Admission</a></h2>
+                            <p>Admission Information</p>
+                            <a class="read-more" href="#">Read more<i class="fa fa-chevron-right"></i></a>
+                            <img class="thumb" src="assets/images/notice.jpg"  alt="" />
                         </div><!--//news-item-->
                         <div class="col-md-4 news-item">
-                            <h2 class="title"><a href="news-single.html">Aliquam id iaculis urna</a></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam bibendum mauris eget sapien consectetur pellentesque. Proin elementum tristique euismod. </p>
-                            <a class="read-more" href="news-single.html">Read more<i class="fa fa-chevron-right"></i></a>
-                            <img class="thumb" src="assets/images/news/news-thumb-6.jpg"  alt="" />
+                            <h2 class="title"><a href="news-single.html">Admission</a></h2>
+                            <p>Admission Information</p>
+                            <a class="read-more" href="#">Read more<i class="fa fa-chevron-right"></i></a>
+                            <img class="thumb" src="assets/images/notice.jpg"  alt="" />
                         </div><!--//news-item-->
                     </div><!--//item-->
                 </div><!--//carousel-inner-->
@@ -154,179 +154,59 @@
             </section><!--//events-->
         </div><!--//col-md-3-->
         <div class="col-md-6">
-            <section class="course-finder">
-                <h1 class="section-heading text-highlight"><span class="line">Course Finder</span></h1>
-                <div class="section-content">
-                    <form class="course-finder-form" action="#" method="get">
-                        <div class="row">
-                            <div class="col-md-5 col-sm-5 subject">
-                                <select class="form-control subject">
-                                    <option>Choose a subject area</option>
-                                    <option>Accounting & Finance</option>
-                                    <option>Biological Sciences</option>
-                                    <option>Business Studies</option>
-                                    <option>Computer Science</option>
-                                    <option>Creative Arts & Media</option>
-                                    <option>Drama</option>
-                                    <option>Education</option>
-                                    <option>Engineering</option>
-                                    <option>Film Studies</option>
-                                    <option>Fitness Training</option>
-                                    <option>Hospitality</option>
-                                    <option>History</option>
-                                    <option>International Relations</option>
-                                    <option>Law</option>
-                                    <option>Mathematics</option>
-                                    <option>Music</option>
-                                    <option>Physics</option>
-                                    <option>Religion</option>
-                                    <option>Social Science</option>
-                                </select>
-                            </div>
-                            <div class="col-md-7 col-sm-7 keywords">
-                                <input class="form-control pull-left" type="text" placeholder="Search keywords" />
-                                <button type="submit" class="btn btn-theme"><i class="fa fa-search"></i></button>
-                            </div>
-                        </div>
-                    </form><!--//course-finder-form-->
-                    <a class="read-more" href="courses.html">View all our courses<i class="fa fa-chevron-right"></i></a>
-                </div><!--//section-content-->
-            </section><!--//course-finder-->
             <section class="video">
-                <h1 class="section-heading text-highlight"><span class="line">Video Tour</span></h1>
-                <div class="carousel-controls">
-                    <a class="prev" href="#videos-carousel" data-slide="prev"><i class="fa fa-caret-left"></i></a>
-                    <a class="next" href="#videos-carousel" data-slide="next"><i class="fa fa-caret-right"></i></a>
-                </div><!--//carousel-controls-->
+                <h1 class="section-heading text-highlight"><span class="line">Principal's Message</span></h1>
+
                 <div class="section-content">
-                    <div id="videos-carousel" class="videos-carousel carousel slide">
-                        <div class="carousel-inner">
-                            <div class="item active">
-                                <iframe class="video-iframe" src="http://www.youtube.com/embed/r9LelXa3U_I?rel=0&amp;wmode=transparent" frameborder="0" allowfullscreen=""></iframe>
-                            </div><!--//item-->
-                            <div class="item">
-                                <iframe class="video-iframe" src="http://www.youtube.com/embed/RcGyVTAoXEU?rel=0&amp;wmode=transparent" frameborder="0" allowfullscreen=""></iframe>
-                            </div><!--//item-->
-                            <div class="item">
-                                <iframe class="video-iframe" src="http://www.youtube.com/embed/Ks-_Mh1QhMc?rel=0&amp;wmode=transparent" frameborder="0" allowfullscreen=""></iframe>
-                            </div><!--//item-->
-                        </div><!--//carousel-inner-->
-                    </div><!--//videos-carousel-->
-                    <p class="description">Aenean feugiat a diam tempus sodales. Quisque lorem nulla, ultrices imperdiet malesuada at, suscipit vel lorem. Nulla dignissim nisi ac aliquet semper.</p>
+                    <p class="description">
+                        পূণ্যভুমি সিলেটের বহু ইতিহাস ও ঐতিহ্যের ধারক সিলেট নগরীর পূর্বপ্রান্তে স্বমহিমায় অধিষ্ঠিত উপমহাদেশের অন্যতম প্রাচীন বিদ্যাপীঠ‘কালের কপোলতলে শুভ্র সমুজ্জ্বল’ মুরারিচাঁদ কলেজ। প্রায় সোয়াশো বছরের ঐতিহ্য ধারণ করে অগনিত জ্ঞানী ও গুণীর সূতিকাগার এ শিক্ষাপ্রতিষ্ঠান। বর্তমানে উচ্চমাধ্যমিক শ্রেণিসহ স্নাতক, স্নাতকোত্তরে ষোলটি বিষয়ে অনার্স ও মাস্টার্স কোর্সে অধ্যয়নরত পনের হাজার ছাত্র-ছাত্রীর কলরবে মুখরিত, তাদের লালিত প্রজ্ঞা ও মেধাকে সঙ্গে নিয়ে এম.সি.কলেজ পরিবার বিশ্বমানের শিক্ষায় বিকশিত হতে তৎপর গৌরবান্বিত এ প্রতিষ্ঠানটির প্রতিষ্ঠাকাল ১৮৯২। কলিকাতা বিশ্ববিদ্যালয়ের অধীন এফ.এ কোর্স চালুর মাধ্যমে মুরারিচাঁদ কলেজের শুভ সূচনা। আধুনিক শিক্ষা ব্যবস্থাপনায় শিক্ষার মান উন্নয়ন ও শ্রেণিশিক্ষা কার্যক্রম সুষ্ঠু ও কার্যকরভাবে পরিচালনার জন্য এ প্রতিষ্ঠানটি তার জ্ঞান ও গরিমার ঐতিহ্যকে স্মরণ করিয়ে উচ্চমাধ্যমিক শ্রেণি থেকে স্নাতকোত্তর শ্রেণি সকল ক্ষেত্রে ডিজিটাল পদ্ধতিতে শ্রেণিশিক্ষা কার্যক্রম পরিচালনার পরিকল্পনা প্রণয়ন করেছে এবং ইতোমধ্যে উচ্চমাধ্যমিক শ্রেণির শিক্ষার্থীদের পৃথক ডিজিটাল শ্রেণিকক্ষের প্রবর্তন এবং মাল্টিমিডিয়া প্রকেক্টরের
+                    </p>
+                    <a class="read-more" href="#">Read more<i class="fa fa-chevron-right"></i></a>
+
+                </div><!--//section-content-->
+            </section><!--//video-->
+            <section class="video">
+                <h1 class="section-heading text-highlight"><span class="line">Vide Principal's Message</span></h1>
+
+                <div class="section-content">
+                    <p class="description">
+                        শিক্ষা জ্ঞান আলোক। জ্ঞানের মহিমান্বিত আলোকে শিক্ষার্থীদের কারুকার্যময় সুন্দর ভবিষ্যৎ তৈরি হয়। বর্ণিল আলোয় আলোকিত শত বছরের জ্ঞানের গৌরব, মননের দিপ্তী আর সৃষ্টিমুখর তৎপরতার ঐতিহ্য ধারণ করে এম.সি.কলেজ আপন মহিমায় অগ্রসরমান।
+                        আধুনিক শিক্ষার লক্ষ্য ও উদ্দেশ্য ছাত্র-ছাত্রীদের সুপ্ত প্রতিভার বিকাশ ঘটবে সৃজনশীল চিন্তা-চেতনা ও কল্পনাশক্তির পরিস্ফুটনের মাধ্যমে। সৃজনশীল প্রকাশ ক্ষমতাকে উজ্জীবিত করে শিক্ষার্থীকে কাঙ্খিত লক্ষ্যে উপনীত করাতে এম.সি.কলেজ বদ্ধ পরিকর। সে লক্ষ্যে উচ্চমাধ্যমিক শ্রেণিতে একাডেমিক ক্যালেন্ডারের বাস্তবায়ন ও ডিজিটাল শ্রেণিকক্ষের প্রবর্তন করা হয়েছে।
+                        স্নাতক থেকে স্নাতকোত্তর শ্রেণি সকল ক্ষেত্রে অনুশীলন মনিটরিংয়ের মাধ্যমে শিক্ষার সকল সুযোগ সুবিধাকে কাজে লাগিয়ে মেধা ও জ্ঞানের বিস্তার ঘটিয়ে এম.সি.কলেজ তার গৌরবকে সমুন্নত রাখতে সংকল্পবদ্ধ বলে আমি বিশ্বাস রাখি। কলেজের ঐতিহ্য ও গৌরবের কৃতিত্বে কীর্তিমান স্থানীয় সাংসদ ও গণপ্রজাতন্ত্রী বাংলাদেশ সরকারের মাননীয়
+                    </p>
+                    <a class="read-more" href="#">Read more<i class="fa fa-chevron-right"></i></a>
+
                 </div><!--//section-content-->
             </section><!--//video-->
         </div>
         <div class="col-md-3">
             <section class="links">
+                <h1 class="section-heading text-highlight"><span class="line">Form Download</span></h1>
+                <div class="section-content">
+                    <p><a href="#" target="_blank" ><i class="fa fa-caret-right">Admission Form</i></a></p>
+                    <p><a href="#" target="_blank" ><i class="fa fa-caret-right">Class Routine</i></a></p>
+               </div><!--//section-content-->
+            </section><!--//links-->
+
+            <section class="links">
+                <h1 class="section-heading text-highlight"><span class="line">Important Links</span></h1>
+                <div class="section-content">
+                    <p><a href="http://www.sylhetboard.gov.bd/" target="_blank" ><i class="fa fa-caret-right"></i>Sylhet Education Board</a></p>
+                    <p><a href="http://www.nu.edu.bd/" target="_blank"><i class="fa fa-caret-right"></i>National University </a></p>
+                    <p><a href="http://www.moedu.gov.bd/" target="_blank"><i class="fa fa-caret-right"></i>Ministry of Education </a></p>
+                    <p><a href="http://www.dshe.gov.bd/" target="_blank"><i class="fa fa-caret-right"></i>Directorate Of Secondary and Higher Education</a></p>
+                    <p><a href="http://www.bteb.gov.bd/" target="_blank"><i class="fa fa-caret-right"></i>Technical Education Board</a></p>
+                </div><!--//section-content-->
+            </section>
+            <section class="links">
                 <h1 class="section-heading text-highlight"><span class="line">Quick Links</span></h1>
                 <div class="section-content">
-                    <p><a href="#"><i class="fa fa-caret-right"></i>E-learning Portal</a></p>
-                    <p><a href="#"><i class="fa fa-caret-right"></i>Gallery</a></p>
-                    <p><a href="#"><i class="fa fa-caret-right"></i>Job Vacancies</a></p>
-                    <p><a href="#"><i class="fa fa-caret-right"></i>Contact</a></p>
-                </div><!--//section-content-->
-            </section><!--//links-->
-            <section class="testimonials">
-                <h1 class="section-heading text-highlight"><span class="line"> Testimonials</span></h1>
-                <div class="carousel-controls">
-                    <a class="prev" href="#testimonials-carousel" data-slide="prev"><i class="fa fa-caret-left"></i></a>
-                    <a class="next" href="#testimonials-carousel" data-slide="next"><i class="fa fa-caret-right"></i></a>
-                </div><!--//carousel-controls-->
-                <div class="section-content">
-                    <div id="testimonials-carousel" class="testimonials-carousel carousel slide">
-                        <div class="carousel-inner">
-                            <div class="item active">
-                                <blockquote class="quote">
-                                    <p><i class="fa fa-quote-left"></i>I’m very happy interdum eget ipsum. Nunc pulvinar ut nulla eget sollicitudin. In hac habitasse platea dictumst. Integer mattis varius ipsum, posuere posuere est porta vel. Integer metus ligula, blandit ut fermentum a, rhoncus in ligula. Duis luctus.</p>
-                                </blockquote>
-                                <div class="row">
-                                    <p class="people col-md-8 col-sm-3 col-xs-8"><span class="name">Marissa Spencer</span><br /><span class="title">Curabitur commodo</span></p>
-                                    <img class="profile col-md-4 pull-right" src="assets/images/testimonials/profile-1.png"  alt="" />
-                                </div>
-                            </div><!--//item-->
-                            <div class="item">
-                                <blockquote class="quote">
-                                    <p><i class="fa fa-quote-left"></i>
-                                        I'm very pleased commodo gravida ultrices. Sed massa leo, aliquet non velit eu, volutpat vulputate odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse porttitor metus eros, ut fringilla nulla auctor a.</p>
-                                </blockquote>
-                                <div class="row">
-                                    <p class="people col-md-8 col-sm-3 col-xs-8"><span class="name">Marco Antonio</span><br /><span class="title"> Gravida ultrices</span></p>
-                                    <img class="profile col-md-4 pull-right" src="assets/images/testimonials/profile-2.png"  alt="" />
-                                </div>
-                            </div><!--//item-->
-                            <div class="item">
-                                <blockquote class="quote">
-                                    <p><i class="fa fa-quote-left"></i>
-                                        I'm delighted commodo gravida ultrices. Sed massa leo, aliquet non velit eu, volutpat vulputate odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse porttitor metus eros, ut fringilla nulla auctor a.</p>
-                                </blockquote>
-                                <div class="row">
-                                    <p class="people col-md-8 col-sm-3 col-xs-8"><span class="name">Kate White</span><br /><span class="title"> Gravida ultrices</span></p>
-                                    <img class="profile col-md-4 pull-right" src="assets/images/testimonials/profile-3.png"  alt="" />
-                                </div>
-                            </div><!--//item-->
+                    <p><a href="#" target="_blank" ><i class="fa fa-caret-right"></i>WebMail</a></p>
+                    <p><a href=#" target="_blank"><i class="fa fa-caret-right"></i>Admin Access</a></p>
+         </div><!--//section-content-->
+            </section>
 
-                        </div><!--//carousel-inner-->
-                    </div><!--//testimonials-carousel-->
-                </div><!--//section-content-->
-            </section><!--//testimonials-->
+
         </div><!--//col-md-3-->
     </div><!--//cols-wrapper-->
-    <section class="awards">
-        <div id="awards-carousel" class="awards-carousel carousel slide">
-            <div class="carousel-inner">
-                <div class="item active">
-                    <ul class="logos">
-                        <li class="col-md-2 col-sm-2 col-xs-4">
-                            <a href="#"><img class="img-responsive" src="assets/images/awards/award1.jpg"  alt="" /></a>
-                        </li>
-                        <li class="col-md-2 col-sm-2 col-xs-4">
-                            <a href="#"><img class="img-responsive" src="assets/images/awards/award2.jpg"  alt="" /></a>
-                        </li>
-                        <li class="col-md-2 col-sm-2 col-xs-4">
-                            <a href="#"><img class="img-responsive" src="assets/images/awards/award3.jpg"  alt="" /></a>
-                        </li>
-                        <li class="col-md-2 col-sm-2 col-xs-4">
-                            <a href="#"><img class="img-responsive" src="assets/images/awards/award4.jpg"  alt="" /></a>
-                        </li>
-                        <li class="col-md-2 col-sm-2 col-xs-4">
-                            <a href="#"><img class="img-responsive" src="assets/images/awards/award5.jpg"  alt="" /></a>
-                        </li>
-                        <li class="col-md-2 col-sm-2 col-xs-4">
-                            <a href="#"><img class="img-responsive" src="assets/images/awards/award6.jpg"  alt="" /></a>
-                        </li>
-                    </ul><!--//slides-->
-                </div><!--//item-->
-
-                <div class="item">
-                    <ul class="logos">
-                        <li class="col-md-2 col-sm-2 col-xs-4">
-                            <img class="img-responsive" src="assets/images/awards/award7.jpg"  alt="" />
-                        </li>
-                        <li class="col-md-2 col-sm-2 col-xs-4">
-                            <img class="img-responsive" src="assets/images/awards/award6.jpg"  alt="" />
-                        </li>
-                        <li class="col-md-2 col-sm-2 col-xs-4">
-                            <img class="img-responsive" src="assets/images/awards/award5.jpg"  alt="" />
-                        </li>
-                        <li class="col-md-2 col-sm-2 col-xs-4">
-                            <img class="img-responsive" src="assets/images/awards/award4.jpg"  alt="" />
-                        </li>
-                        <li class="col-md-2 col-sm-2 col-xs-4">
-                            <img class="img-responsive" src="assets/images/awards/award3.jpg"  alt="" />
-                        </li>
-                        <li class="col-md-2 col-sm-2 col-xs-4">
-                            <img class="img-responsive" src="assets/images/awards/award2.jpg"  alt="" />
-                        </li>
-                    </ul><!--//slides-->
-                </div><!--//item-->
-            </div><!--//carousel-inner-->
-            <a class="left carousel-control" href="#awards-carousel" data-slide="prev">
-                <i class="fa fa-angle-left"></i>
-            </a>
-            <a class="right carousel-control" href="#awards-carousel" data-slide="next">
-                <i class="fa fa-angle-right"></i>
-            </a>
-
-        </div>
-    </section>
 @stop

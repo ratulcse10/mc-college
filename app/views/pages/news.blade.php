@@ -3,7 +3,7 @@
 @section('content')
     <div class="page-wrapper">
         <header class="page-heading clearfix">
-            <h1 class="heading-title pull-left">News</h1>
+            <h1 class="heading-title pull-left">Notices</h1>
             <div class="breadcrumbs pull-right">
                 <ul class="breadcrumbs-list">
                     <li class="breadcrumbs-label">You are here:</li>

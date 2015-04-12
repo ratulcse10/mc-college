@@ -42,7 +42,7 @@
                                 </span>
                             </p>
                             <p class="tel col-md-12 col-sm-4"><i class="fa fa-phone"></i>0800 123 4567</p>
-                            <p class="email col-md-12 col-sm-4"><i class="fa fa-envelope"></i><a href="#">enquires@website.com</a></p>
+                            <p class="email col-md-12 col-sm-4"><i class="fa fa-envelope"></i><a href="#">contact@mccollege.edu.bd</a></p>
                         </div>
                     </div><!--//footer-col-inner-->
                 </div><!--//foooter-col-->
