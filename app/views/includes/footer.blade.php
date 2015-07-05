@@ -1,6 +1,5 @@
 
 
-<!-- ******FOOTER****** -->
 <footer class="footer">
     <div class="footer-content">
         <div class="container">
@@ -9,10 +8,12 @@
                     <div class="footer-col-inner">
                         <h3>About</h3>
                         <ul>
-                            <li><a href="about.html"><i class="fa fa-caret-right"></i>About us</a></li>
-                            <li><a href="contact.html"><i class="fa fa-caret-right"></i>Contact us</a></li>
-                            <li><a href="privacy.html"><i class="fa fa-caret-right"></i>Privacy policy</a></li>
-                            <li><a href="terms-and-conditions.html"><i class="fa fa-caret-right"></i>Terms & Conditions</a></li>
+                            <li><a href="{{route('about')}}"><i class="fa fa-caret-right"></i>About us</a></li>
+                            <li><a href="{{route('contact')}}"><i class="fa fa-caret-right"></i>Contact us</a></li>
+                            <li><a href="{{route('notice.index')}}"><i class="fa fa-caret-right"></i>Notices</a></li>
+                            <li><a href="{{route('event.index')}}"><i class="fa fa-caret-right"></i>Events</a></li>
+                            <li><a href="{{route('admission.index')}}"><i class="fa fa-caret-right"></i>Admission</a></li>
+                            <li><a href="{{route('result.index')}}"><i class="fa fa-caret-right"></i>Result</a></li>
                         </ul>
                     </div><!--//footer-col-inner-->
                 </div><!--//foooter-col-->
@@ -67,6 +68,7 @@
         </div><!--//container-->
     </div><!--//bottom-bar-->
 </footer><!--//footer-->
+
 
 
 

@@ -55,7 +55,7 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'ratul_admission',
+			'database'  => 'mc_admin',
 			'username'  => 'root',
 			'password'  => '',
 			'charset'   => 'utf8',

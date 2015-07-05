@@ -15,9 +15,16 @@ class HomeController extends BaseController {
 	|
 	*/
 
-	public function showWelcome()
+	public function index()
 	{
-		return View::make('hello');
+		$principal_message = Message::where('designation','principal')->first();
+		$viceprincipal_message = Message::where('designation','vice-principal')->first();
+
+		return View::make('home.index')
+				->with('notices',DB::table('notices')->orderBy('id', 'asc')->take(3)->get())
+				->with('events',DB::table('events')->orderBy('id', 'asc')->take(5)->get())
+				->with('principal_message',$principal_message)
+				->with('viceprincipal_message',$viceprincipal_message);
 	}
 
 }
