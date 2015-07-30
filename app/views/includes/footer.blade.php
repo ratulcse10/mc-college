@@ -19,13 +19,13 @@
                 </div><!--//foooter-col-->
                 <div class="footer-col col-md-6 col-sm-8 newsletter">
                     <div class="footer-col-inner">
-                        <h3>Join our mailing list</h3>
-                        <p>Subscribe to get our weekly newsletter delivered directly to your inbox</p>
-                        <form class="subscribe-form">
+                        <h3>Quick Contact</h3>
+                       <!--  <p>Subscribe to get our weekly newsletter delivered directly to your inbox</p> -->
+                        <form class="subscribe-form" action="{{route('contact')}}">
                             <div class="form-group">
                                 <input type="email" class="form-control" placeholder="Enter your email" />
                             </div>
-                            <input class="btn btn-theme btn-subscribe" type="submit" value="Subscribe">
+                            <input class="btn btn-theme btn-subscribe" type="submit" value="Contact">
                         </form>
 
                     </div><!--//footer-col-inner-->
@@ -43,7 +43,7 @@
                                 </span>
                             </p>
                             <p class="tel col-md-12 col-sm-4"><i class="fa fa-phone"></i>0800 123 4567</p>
-                            <p class="email col-md-12 col-sm-4"><i class="fa fa-envelope"></i><a href="#">contact@mccollege.edu.bd</a></p>
+                            <p class="email col-md-12 col-sm-4"><i class="fa fa-envelope"></i><a href="#">principal@mccollege.edu.bd</a></p>
                         </div>
                     </div><!--//footer-col-inner-->
                 </div><!--//foooter-col-->
