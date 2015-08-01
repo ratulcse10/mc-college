@@ -30,7 +30,7 @@
                         <li><a href="{{route('principal.index')}}">Principal's Information</a></li>
                         <li><a href="{{route('viceprincipal.index')}}">Vice Principal's Information</a></li>
                         <li><a href="{{route('teacher.index')}}">Teachers Information</a></li>
-                        <li><a href="{{route('student.index')}}">Students Infromation</a></li>
+                        <!-- <li><a href="{{route('student.index')}}">Students Infromation</a></li> -->
                         <li><a href="{{route('holiday.index')}}">Holiday  Calendar</a></li>
                         <li><a href="{{route('academic.index')}}">Academic Calendar</a></li>
                         <li><a href="{{route('routine.index')}}">Class Routiner</a></li>

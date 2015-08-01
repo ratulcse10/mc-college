@@ -10,7 +10,7 @@ class StudentController extends \BaseController {
   //       		->with('student',$student);
 
        	return View::make('student.index')
-					->with('students',Student_info::with('session')->get())
+					->with('students',Student_info::all())
 					->with('title',"Students");
 	}
 

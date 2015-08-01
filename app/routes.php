@@ -23,7 +23,11 @@ Route::get('result/{id}',['as'=> 'result.show','uses'=>'ResultController@show'])
 
 //Admission
 Route::get('admission',['as'=> 'admission.index','uses'=>'AdmissionController@index']);
-Route::get('admission/{id}',['as'=> 'admission.show','uses'=>'AdmissionController@show']);
+Route::get('admission/enterPin',['as'=> 'admission.pin','uses'=>'AdmissionController@pin']);
+Route::post('admission/pinProcess',['as'=> 'admission.pinProcess','uses'=>'AdmissionController@pinProcess']);
+Route::post('admission/admit',['as'=> 'admission.admit','uses'=>'AdmissionController@admit']);
+
+//Route::get('admission/{id}',['as'=> 'admission.show','uses'=>'AdmissionController@show']);
 
 //Notice
 Route::get('notices',['as'=> 'notice.index','uses'=>'NoticeController@index']);

@@ -7,7 +7,7 @@ class NoticeController extends \BaseController {
 	{
 		 return View::make('notices.index')
         	->with('title',"Notices")
-        	->with('notices',Notice::paginate(2));
+        	->with('notices',Notice::where('published_at','=','central')->paginate(10));
 	}
 
 	

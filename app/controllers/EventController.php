@@ -7,7 +7,7 @@ class EventController extends \BaseController {
 	{
 		 return View::make('events.index')
         	->with('title',"Events")
-        	->with('events',AllEvent::paginate(2));
+        	->with('events',AllEvent::where('published_at','=','central')->paginate(10));
 	}
 
 

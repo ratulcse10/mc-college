@@ -7,7 +7,7 @@ class ResultController extends \BaseController {
 	{
 		return View::make('results.index')
         	->with('title',"Results")
-        	->with('results',Result::paginate(2));
+        	->with('results',Result::where('published_at','=','central')->paginate(10));
 	}
 
 	

@@ -15,15 +15,12 @@
                             <thead>
                             <tr>
                                 <th>Student Name</th>
-                                <th>Roll</th>
                                 <th>Department</th>
                                 <th>Medium</th>
                                 <th>Gender</th>
                                 <th>Religion</th>
-                                <th>Blood Group</th>
                                 <th>Present Address</th>
                                 <th>Permanent Address</th>
-                                <th>Session</th>
 
                             </tr>
                             </thead>
@@ -31,15 +28,12 @@
                             @foreach($students as $student)
                                 <tr>
                                     <td>{{ $student->name }}</td>
-                                    <td>{{{ $student->roll }}}</td>
                                     <td>{{{ $student->department }}}</td>
                                     <td>{{{ $student->programme }}}</td>
                                     <td>{{{ $student->gender }}}</td>
                                     <td>{{{ $student->religion }}}</td>
-                                    <td>{{{ $student->blood }}}</td>
                                     <td>{{{ $student->present }}}</td>
                                     <td>{{{ $student->permanent }}}</td>
-                                    <td>{{{ $student->session->name }}}</td>
 
                                 </tr>
                             @endforeach
