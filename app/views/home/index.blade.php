@@ -132,6 +132,7 @@
                     <p><a href="http://www.moedu.gov.bd/" target="_blank"><i class="fa fa-caret-right"></i>Ministry of Education </a></p>
                     <p><a href="http://www.dshe.gov.bd/" target="_blank"><i class="fa fa-caret-right"></i>Directorate Of Secondary and Higher Education</a></p>
                     <p><a href="http://www.bteb.gov.bd/" target="_blank"><i class="fa fa-caret-right"></i>Technical Education Board</a></p>
+                    <p><a href="http://www.eprocure.gov.bd/" target="_blank"><i class="fa fa-caret-right"></i>National e-Government Procurement (e-GP)</a></p>
                 </div><!--//section-content-->
             </section>
             <section class="links">
