@@ -10,8 +10,8 @@
             <div class="row page-row">
                 <div class="news-wrapper col-md-12 ">
                     @if($result->downloadLink != "demo.jpg")
-                     <p><b>Attachment Download:
-                     <a target="_blank" href="{{asset('admin/public/uploads/results').'/'.$result->downloadLink}}">Download File</a>
+                     <p><b>Attachment:</br>
+                     <a target="_blank" href="{{'http://files.mccollege.edu.bd/uploads/results/'.$result->downloadLink}}">Download File</a>
                      </b></p>
                     @endif
                     {{$result->description}}
