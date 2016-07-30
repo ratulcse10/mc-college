@@ -35,7 +35,7 @@
                                 @foreach($dept->teachers as $teacher)
                                 <div class="col-md-3 col-sm-3 col-xs-12 text-center">
                                     <div class="album-cover">
-                                        <a href="{{route('teacher.show',$teacher->id)}}"><img style="width:245px;height:300px" class="img-responsive" src="{{asset('admin/public').$teacher->image_url}}" alt="" /></a>
+                                        <a href="{{route('teacher.show',$teacher->id)}}"><img style="width:245px;height:300px" class="img-responsive" src="{{'http://files.mccollege.edu.bd'.$teacher->image_url}}" alt="" /></a>
                                         <div class="desc">
                                             <h4><small><a href="{{route('teacher.show',$teacher->id)}}">{{$teacher->name}}</a></small></h4>
                                             <p>{{$teacher->designation}}</p>
