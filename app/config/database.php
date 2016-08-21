@@ -55,9 +55,9 @@ return array(
 		'mysql' => array(
 			'driver'    => 'mysql',
 			'host'      => 'localhost',
-			'database'  => 'mc_admin',
+			'database'  => 'main',
 			'username'  => 'root',
-			'password'  => '',
+			'password'  => '6/tF:UnrIT?S^{S',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',

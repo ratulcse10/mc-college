@@ -1,0 +1,9 @@
+<VirtualHost *:80>
+ServerAdmin ratulcse10@gmail.com
+ServerName mirror.mccollege.edu.bd
+ServerAlias www.mirror.mccollege.edu.bd
+DocumentRoot /var/www/public_html/mc-college/public
+<Directory "/var/www/public_html/mc-college/public/">
+AllowOverride All
+</Directory>
+</VirtualHost>
